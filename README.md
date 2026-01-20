@@ -2,7 +2,7 @@
 
 # ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Viviana&fontSize=80)
 
-# Hi 👋, I'm Viviana, a Software Development and Multiplatform student.
+# Hi, I'm Viviana, a Software Development and Multiplatform student.
 
 ---
 
