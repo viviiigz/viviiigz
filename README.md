@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving)
-![header](https://capsule-render.vercel.app/api?color=timeAuto)
+
 <h1 align="center">Hi 👋, I'm Viviana, a Software Development and Multiplatform student.</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
