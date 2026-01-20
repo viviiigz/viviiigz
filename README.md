@@ -1,3 +1,4 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving)
 
 <h1 align="center">Hi 👋, I'm Viviana, a Software Development and Multiplatform student.</h1>
@@ -14,3 +15,5 @@
 
 ![viviiigz's Stats](https://github-readme-stats.vercel.app/api?username=viviiigz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
 ![viviiigz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viviiigz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+</div>
