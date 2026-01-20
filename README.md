@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Viviana, a Software Development and Multiplatform student.</h1>
+![Hi, I'm Viviana, a Software Development and Multiplatform student.](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/viviana gonzález" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viviana gonzález" height="30" width="40" /></a>
@@ -11,5 +11,4 @@
 
 
 ![viviiigz's Stats](https://github-readme-stats.vercel.app/api?username=viviiigz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
-![viviiigz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=viviiigz&theme=vue-dark&hide_border=true)
 ![viviiigz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viviiigz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
