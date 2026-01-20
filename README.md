@@ -10,5 +10,6 @@
 
 
 
+![viviiigz's Stats](https://github-readme-stats.vercel.app/api?username=viviiigz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
 ![viviiigz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=viviiigz&theme=vue-dark&hide_border=true)
-
+![viviiigz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viviiigz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
