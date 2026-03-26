@@ -61,5 +61,5 @@ Hi, I'm Viviana! A Software Development and Multiplatform student. I love creati
 ###😂 Random Dev Meme 🌸
 
 <p align="left">
-  <img src="https://media.tenor.com/U0TCpnIjzmAAAAAM/plastics-coming-through-regina-george.gif" alt="Meme Plastics coming through" width="350"/>
+  <img src="https://co.pinterest.com/pin/819936675912999799/" alt="Meme Plastics coming through" width="350"/>
 </p>
