@@ -49,17 +49,16 @@ Hi, I'm Viviana! A Software Development and Multiplatform student. I love creati
 
 ### 📊 GitHub Stats & Trophies ✨
 
-![Viviana's Github Stats](https://github-readme-stats.vercel.app/api?username=viviiigz&show_icons=true&locale=en&theme=rose)
-![Viviana's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=viviiigz&theme=rose)
+![Viviana's Github Streak](https://streak-stats.demolab.com/?user=viviiigz&theme=rose)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viviiigz&layout=compact&theme=rose&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viviiigz&layout=compact&theme=rose)
 
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=viviiigz&theme=rose&no-frame=true&no-bg=true)
 
 ---
 
-###😂 Random Dev Meme 🌸
+### 🌸 Coding vibes:
 
 <p align="left">
-  <img src="https://co.pinterest.com/pin/819936675912999799/" alt="Meme Plastics coming through" width="350"/>
+  <img src="https://media.giphy.com/media/11s7Ke7jcNxCHS/giphy.gif" alt="Elle Woods typing on laptop" width="350"/>
 </p>
