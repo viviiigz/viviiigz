@@ -49,12 +49,11 @@ Hi, I'm Viviana! A Software Development and Multiplatform student. I love creati
 
 ### 📊 GitHub Stats & Trophies ✨
 
-![Viviana's Github Streak](https://streak-stats.demolab.com/?user=viviiigz&theme=rose)
+![Viviana's Github Streak](https://streak-stats.demolab.com/?user=viviiigz&theme=rose&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viviiigz&layout=compact&theme=rose)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=viviiigz&layout=compact&theme=rose&hide_border=true&v=1)
 
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=viviiigz&theme=rose&no-frame=true&no-bg=true)
-
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=viviiigz&theme=rose&no-frame=true&no-bg=true&margin-w=15)
 ---
 
 ### 🌸 Coding vibes:
