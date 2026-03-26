@@ -1,17 +1,21 @@
 # Viviana González 🎀 ✨
 **I'm from Formosa - Argen**
 
-<p align="left">
 Hi, I'm Viviana! A Software Development and Multiplatform student. I love creating neat interfaces and am currently building my project **Vértice**.
-</p>
 
+---
+
+### ✍️ Notable Female Quote <img src="https://media.giphy.com/media/WUlplcMpM1XmTG042f/giphy.gif" width="30">
 <p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" alt="Random Quote" />
+</p>
+<p align="left">
+  <i>"The Analytical Engine weaves algebraic patterns, just as the Jacquard loom weaves flowers and leaves."</i> - Ada Lovelace
 </p>
 
 ---
 
-### 💻 Tech Stack <img src="https://media.giphy.com/media/WUlplcMpM1XmTG042f/giphy.gif" width="30">
+### 💻 Tech Stack
 
 **🧰 LANGUAGES:**
 <br>
@@ -51,19 +55,19 @@ Hi, I'm Viviana! A Software Development and Multiplatform student. I love creati
 
 ### 📊 GitHub Stats & Trophies ✨
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=viviiigz&show_icons=true&locale=en&theme=rose" alt="Viviana's Github Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=viviiigz&theme=rose" alt="Viviana's Github Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=viviiigz&show_icons=true&locale=en&theme=rose" alt="Viviana's Github Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viviiigz&theme=rose" alt="Viviana's Github Streak" />
 </p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviiigz&layout=compact&theme=rose&langs_count=6" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviiigz&layout=compact&theme=rose&langs_count=6" alt="Top Langs" />
 </p>
 <p align="left">
-<img src="https://github-readme-trophies.vercel.app/?username=viviiigz&theme=rose&no-frame=true&no-bg=true" alt="Github Trophies" />
+  <img src="https://github-readme-trophies.vercel.app/?username=viviiigz&theme=rose&no-frame=true&no-bg=true" alt="Github Trophies" />
 </p>
 
 ---
 
 ### 😂 Random Dev Meme
 <p align="left">
-  <img src="https://github-readme-meme.vercel.app/api?theme=synthwave" alt="Meme" />
-</p>>
+  <img src="https://github-readme-memes.now.sh/?theme=synthwave" alt="Meme" />
+</p>
