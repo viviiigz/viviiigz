@@ -1,9 +1,9 @@
 <div align="center">
 
-# Viviana González 🎀 ✨
+# Viviana Elisa Soledad González 🎀 
 **I'm from Formosa - Argen**
 
-Hi, I'm Viviana! A Software Development and Multiplatform student. I love creating neat interfaces and am currently building my project **Vértice**.
+Hi, I'm Viviana! A Software Development and Multiplatform student.
 
 ---
 
