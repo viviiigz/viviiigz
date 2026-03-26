@@ -58,6 +58,8 @@ Hi, I'm Viviana! A Software Development and Multiplatform student. I love creati
 
 ---
 
-### 🌸 Coding Vibes
+###😂 Random Dev Meme 🌸
 
-![Cute Coding Anime Girl](https://media.giphy.com/media/LrmU6jXIjwziE/giphy.gif)
+<p align="left">
+  <img src="https://media.tenor.com/U0TCpnIjzmAAAAAM/plastics-coming-through-regina-george.gif" alt="Meme Plastics coming through" width="350"/>
+</p>
