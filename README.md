@@ -6,12 +6,8 @@ Hi, I'm Viviana! A Software Development and Multiplatform student. I love creati
 ---
 
 ### ✍️ Notable Female Quote <img src="https://media.giphy.com/media/WUlplcMpM1XmTG042f/giphy.gif" width="30">
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" alt="Random Quote" />
-</p>
-<p align="left">
-  <i>"The Analytical Engine weaves algebraic patterns, just as the Jacquard loom weaves flowers and leaves."</i> - Ada Lovelace
-</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F78CBE&center=false&vCenter=true&width=800&lines=The+Analytical+Engine+weaves+algebraic+patterns...;just+as+the+Jacquard+loom+weaves+flowers+and+leaves.;-+Ada+Lovelace)](https://git.io/typing-svg)
 
 ---
 
@@ -35,39 +31,4 @@ Hi, I'm Viviana! A Software Development and Multiplatform student. I love creati
 <br>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-
-**🎨 DESIGN:**
-<br>
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="Adobe Photoshop"/>
-
----
-
-### 🌐 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/viviana-gonzález" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://instagram.com/vivviigz" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-<a href="mailto:vivigz06@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-</p>
-
----
-
-### 📊 GitHub Stats & Trophies ✨
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=viviiigz&show_icons=true&locale=en&theme=rose" alt="Viviana's Github Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viviiigz&theme=rose" alt="Viviana's Github Streak" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviiigz&layout=compact&theme=rose&langs_count=6" alt="Top Langs" />
-</p>
-<p align="left">
-  <img src="https://github-readme-trophies.vercel.app/?username=viviiigz&theme=rose&no-frame=true&no-bg=true" alt="Github Trophies" />
-</p>
-
----
-
-### 😂 Random Dev Meme
-<p align="left">
-  <img src="https://github-readme-memes.now.sh/?theme=synthwave" alt="Meme" />
-</p>
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"
