@@ -1,6 +1,6 @@
 <div align="center">
 
-# Viviana Elisa Soledad González 🎀 
+# Viviana Elisa González 🎀 
 **I'm from Formosa - Argen**
 
 Hi, I'm Viviana! A Software Development and Multiplatform student.
